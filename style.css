@@ -1,6 +1,6 @@
 body{
     text-align: center;
-    background-image: url("template3.png");
+    background-image: url("template6.png");
     background-repeat: no-repeat;
     background-size: cover;
     
@@ -110,5 +110,5 @@ h1{
 
 
 footer{
-    padding-top: 1%;
+    padding-top: 30px;
 }
