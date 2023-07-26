@@ -127,7 +127,16 @@ h1{
     fill: #ffffff;
    }
    
+.referencia{
+    font-size: 10px;
+    text-decoration: none;
+    color: white;
+}
 
+.referencia:hover{
+    color: #00B0EF;
+    cursor: pointer;
+}
 
 
 
